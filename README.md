@@ -12,5 +12,5 @@ This project based on:
 2. 3d model available in 3d model folder
 3. Scheme and connection 
 
-[![Alt text](//github.com/lemoJuice/smart_remote/schemes/full_scheme.png)]
+[![Alt text]([//github.com/lemoJuice/smart_remote/schemes/full_scheme.png](https://github.com/lemoJuice/smart_remote/blob/main/schemes/full_scheme.png))]
 
